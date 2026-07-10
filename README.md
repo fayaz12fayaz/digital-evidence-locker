@@ -286,9 +286,9 @@ Bachelor of Computer Applications (BCA)
 
 Python Developer | Aspiring Software Engineer | Interested in Backend Development, Cybersecurity and Data Science
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/fayaz12fayaz
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/
 
 ---
 
