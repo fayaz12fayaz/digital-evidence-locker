@@ -1,6 +1,9 @@
 # digital-evidence-locker
 A secure Digital Evidence Locker built with Python and MySQL featuring role-based authentication, evidence management, chain of custody tracking, activity logging, and bcrypt password hashing.
 
+<p align="center">
+  <img src="images/banner.png" alt="Digital Evidence Locker" width="100%">
+</p>
 
 # 🔒 Digital Evidence Locker
 
